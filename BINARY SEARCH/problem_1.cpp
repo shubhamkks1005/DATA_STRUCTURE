@@ -1,4 +1,4 @@
-//Problem:-First and last position a element is sorted array.
+//Problem:-First and last position a element in sorted array.
 #include<iostream>
 using namespace std;
  int star( int *a,int key, int last) //gives first occurence
