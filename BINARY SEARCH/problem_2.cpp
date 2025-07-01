@@ -1,4 +1,4 @@
-//problem:-what will be the position of element if it is present in sorted array.
+//problem:-what will be the position of element if it is/will present in sorted array.
 #include<iostream>
 using namespace std;
 int main()
@@ -37,5 +37,5 @@ int main()
   }
   cout<<mid;
   return 0;
-
+//
 }
