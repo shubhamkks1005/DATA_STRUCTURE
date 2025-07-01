@@ -35,5 +35,5 @@ int main()
     mid=first+(last-first)/2;
   }
   
-cout<<"square ="<<sqr;
+cout<<"square ="<<sqr;//
 }
