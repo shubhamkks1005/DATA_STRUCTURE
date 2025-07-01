@@ -48,7 +48,7 @@ using namespace std;
            mid=first+(last-first)/2;
 
     }
-    return mid;
+    return mid-1;
 
 }
  int main()
