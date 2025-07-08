@@ -73,7 +73,7 @@ g++ -std=c++11 filename.cpp -o output
   <h2 style="color:#4682b4;">👨‍💻 Author</h2>
   <p>
     Created with ❤️ by <strong>Shubham Kushwaha</strong><br>
-    GitHub: <a href="https://github.com/yourusername" target="_blank">https://github.com/yourusername</a>
+    GitHub: <a href="https://github.com/shubhamkks1005" target="_blank">https://github.com/yourusername</a>
   </p>
 
   <hr style="margin-top: 50px;">
