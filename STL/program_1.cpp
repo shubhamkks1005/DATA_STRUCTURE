@@ -1,3 +1,4 @@
+//size and capacity of vector
 #include<iostream>
 #include<vector>
 using namespace std;

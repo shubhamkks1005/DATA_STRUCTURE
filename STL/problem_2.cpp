@@ -5,4 +5,5 @@ int main()
 {
     vector<int>v(10);
     cout<<v.size()<<"   "<<v.capacity();
+    
 }
