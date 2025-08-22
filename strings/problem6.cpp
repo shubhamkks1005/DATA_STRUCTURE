@@ -32,7 +32,7 @@ int main()
     if (check==1)
         cout<<"win";
     
-    
+    fggfgd
     
     
  
