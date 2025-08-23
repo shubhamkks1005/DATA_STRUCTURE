@@ -35,6 +35,6 @@ if (finalcheck==1)
    cout<<"fail";
 }
 else
-cout<<"win";
+cout<<"win nn";
 
 }
